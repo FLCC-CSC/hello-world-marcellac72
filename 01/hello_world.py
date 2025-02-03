@@ -1,8 +1,8 @@
 # FILE NAME: hello_world.py
 
-# NAME: 
-# DATE: 
-# BRIEF DESCRIPTION:  
+# NAME: Marcella Constantino
+# DATE: 2/1/25
+# BRIEF DESCRIPTION: Display "Hello World"
 
 
 
@@ -15,11 +15,7 @@
 
 ########## ENTER YER CODE BELOW THIS LINE ##########
 
-
-
-
-
-
+print("Hello, World!")  # string literal
 
 
 
@@ -47,7 +43,7 @@ Hello, World!
 '''
 1. Congratulations on your first lab! What is ONE thing you learned?
 
-
+That you can use comments to "comment out" code that you're still working on.
 
 
 
